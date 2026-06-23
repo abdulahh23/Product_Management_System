@@ -14,9 +14,9 @@ Must Read `Setup Instructions` and `Usage` before running.
 
 ##  Screenshots
 
-![Alternative Text](./assets/screenshot_1.png)
-![Alternative Text](./assets/screenshot_2.png)
-![Alternative Text](./assets/screenshot_3.png)
+![](./assets/screenshot1.png)
+![](./assets/screenshot2.png)
+![](./assets/screenshot3.png)
 
 ---
 
